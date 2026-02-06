@@ -14,7 +14,7 @@ This project implements an alternating LED blink program written in Assembly Lan
 - Power (5V) and Reset (MCLR) connections
 
 ## Files
-- `blinkingLED.asm` — Assembly source code
+- `ASM_LAB1_PART2.asm` — Assembly source code
 - `aadetona_ASS1_ASM.pdsprj` — Proteus simulation design file
 
 ## How It Works
